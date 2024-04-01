@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'PP Neue Montreal medium';
+  src: url('./assets/fonts/pp-neue-montreal-cufonfonts-webfont/ppneuemontreal-medium.woff') format('woff');
+
+}
+
+* {
+  font-family: "PP Neue Montreal medium";
+  margin: 0px;
+  padding: 0px;
+}
